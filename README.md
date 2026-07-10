@@ -1,2 +1,2 @@
 # portfolio
-My personal portfolio website
+Personal portfolio showcasing projects, technical skills, hackathon achievements, and development journey.
